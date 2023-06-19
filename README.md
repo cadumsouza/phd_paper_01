@@ -1,4 +1,4 @@
-# Conceptual Framework for Subsea Robotic Autonomy in Oil and Gas intervention operations
+# Toward Autonomy in Subsea Robotic Intervention: Conceptual Model of a Framework
 Diagrams of the conceptual model of the Framework for Subsea Robotic Autonomy in Oil and Gas intervention operations.
 The Framework is divided in 4 modules, PERCEPTION, THINKING, ACTION and KNOWLEDGE.
 The file FRAMEWORK FULL shows the complete diagram of the framework.
